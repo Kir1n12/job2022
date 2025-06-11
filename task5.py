@@ -9,7 +9,7 @@ current_actual = None
 
 def connect_robot():
     try:
-        ip = "192.168.1.6"
+        ip = "ip_number"
         dashboard_p = 29999
         move_p = 30003
         feed_p = 30004
