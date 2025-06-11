@@ -140,3 +140,5 @@ if __name__ == '__main__':
 
     run_point(move,point_n2)
     zigzag(point_n2,init_x,init_y,init_z,init_r,theta)
+
+# using the code for  © 2024 Salmontech Inc.　 https://www.salmontech.jp/ 
